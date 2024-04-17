@@ -114,7 +114,8 @@ Add validations to the `Power` model:
 Set up the following routes. Make sure to return JSON data in the format
 specified along with the appropriate HTTP verb.
 
-Recall you can specify fields to include or exclude when serializing a model
+Recall you can specify fields to inc
+lude or exclude when serializing a model
 instance to a dictionary using to_dict() (don't forget the comma if specifying a
 single field).
 
